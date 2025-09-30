@@ -136,7 +136,8 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 
 *   [♾️ Browser MCP Agent](mcp_ai_agents/browser_mcp_agent/)
 *   [🐙 GitHub MCP Agent](mcp_ai_agents/github_mcp_agent/)
-*   [📑 Notion MCP Agent](mcp_ai_agents/notion_mcp_agent) 
+*   [📑 Notion MCP Agent](mcp_ai_agents/notion_mcp_agent)
+*   [🔄 Roundtable MCP Server](https://github.com/askbudi/roundtable) - Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface. Provides unified API for tool management and availability checking.
 *   [🌍 AI Travel Planner MCP Agent](mcp_ai_agents/ai_travel_planner_mcp_agent_team)
 
 ### 📀 RAG (Retrieval Augmented Generation)
